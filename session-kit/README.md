@@ -27,7 +27,7 @@ Each step builds on the last. Skipping step 1 to get to the conversation faster 
 
 ## Field notes: where these practices come from
 
-This kit draws on my research for Catholic Relief Services' ReMiND prenatal care app in Uttar Pradesh, India, where I led recruiting, consent, research, design and validation with low-vision and low-literacy community health workers.
+This kit draws on my research for Catholic Relief Services' ReMiND prenatal care app in Uttar Pradesh, India, where I led recruiting, consent, research, design and validation with low-vision and low-literacy residents alongside community health workers.
 
 Three lessons from that work shape this kit:
 
