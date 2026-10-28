@@ -56,7 +56,7 @@ It returns a findings table, a participant check-back summary and draft issues, 
 
 ## Where the practices come from
 
-The kit draws on my research for Catholic Relief Services' ReMiND prenatal care app in Uttar Pradesh, India, where I led recruiting, consent, research, design and validation with low-vision and low-literacy community health workers. Layered consent and private response options both come from that work. More in [`session-kit/README.md`](session-kit/README.md#field-notes-where-these-practices-come-from).
+The kit draws on my research for Catholic Relief Services' ReMiND prenatal care app in Uttar Pradesh, India, where I led recruiting, consent, research, design and validation with low-vision and low-literacy residents alongside community health workers. Layered consent and private response options both come from that work. More in [`session-kit/README.md`](session-kit/README.md#field-notes-where-these-practices-come-from).
 
 ## Status
 
